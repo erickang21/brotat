@@ -1,0 +1,46 @@
+
+  
+  **Important commands:**
+  .ping                Check the bot's reponse time
+  .invite              Get the OAuth invite link for the bot
+  .ctdev               Add a suggestion for the bot
+  .help                Shows this
+  
+  **Mod:**
+  .kick                Kick a member
+  .ban                 Ban a member
+  .mute                Mute a uer from the text channel
+  .unmute              Un-mute a user from the text channel
+  .purge               Delete messages in bulk
+  .warn                Warn a user
+  
+  **Fun commands**
+  .kill                Kill a user
+  .hug                 Hug a user
+  .oof                 oof a user
+  .xmas                Tells you when christmas is coming
+  .dog                 Get a random dog pic
+  .textmojify          Convert text into emojies
+  .bday                Wish me a happy birthday
+  .insult              Insult your self
+  .halloween           Tells you when halloween is
+  
+  **Developer commands:**
+  .eval                Run python code on discord
+  .ol                  List all the servers the bot is on
+  .source              View the source of any command
+  .shutdown            Shutsdown the bot
+  .charinfo            View the information about any character
+  
+  
+  **NSFW commands:**
+  .ass                 You know what this does
+  .boobs               You know what this does
+  
+  **Misc commands:**
+  .urban               Look up words on the urban dictionary
+  .si                  View the server info
+  .ui                  View information about a user
+  .osu                 View someones osu stats
+  .echo                Make the bot say something after you
+  .poll                Start a poll
