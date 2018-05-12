@@ -30,7 +30,7 @@ from pyfiglet import figlet_format as ascii_format
 
 
 
-bot = commands.Bot(command_prefix=os.environ.get('PREFIX'),owner_id=293159670040887297)  # Bots prefix
+bot = commands.Bot(command_prefix=os.environ.get('h%'),owner_id=293159670040887297)  # Bots prefix
 
 
 
